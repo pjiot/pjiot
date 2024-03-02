@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pjiot (Piyush Jain)
 - 👀 I’m interested in Web Apps, ERP. 
-- 🌱 I’m currently learning React.js, node.js, Peoplesoft. 
+- 🌱 I’m currently working in Front End Web Apps using React.js, javascript, HTML, CSS. 
 - 💞️ I’m looking to collaborate on Web App projects.
 - 📫 How to reach me Email - piyushpjain1995@gmail.com
 
